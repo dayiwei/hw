@@ -1,0 +1,25 @@
+//
+//
+//
+//
+
+public class Rational {
+
+    ////////////Instance vars//////////////
+    private int _numerator;
+    private int _denominator;
+
+
+    ///////////Default Constructor/////////
+    public Rational() {
+
+
+    }
+
+    //////Overriden Constructor/////
+    public Rational( int num, int den) {
+
+
+    }
+
+}
